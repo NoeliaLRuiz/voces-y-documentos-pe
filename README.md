@@ -97,7 +97,7 @@ manuscritos, con revisión humana); para audio, Whisper large-v3-turbo.
 Dashboard (solo necesita `requirements.txt`):
 
 ```bash
-cd tarea_2
+cd voces-y-documentos-pe
 uv venv --python 3.12
 uv pip install -r requirements.txt
 .venv\Scripts\activate          # en Mac o Linux: source .venv/bin/activate
